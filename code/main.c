@@ -3,4 +3,6 @@
 int main()
 {
     printf("Hello World : AKash Here ");
+    // You missed this return statement
+    return 0;
 }
